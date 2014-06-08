@@ -1,7 +1,1 @@
-i am a test
-<<<<<<< HEAD
-
-feature hot fix
-=======
-master
->>>>>>> committed new file
+changed the test file to this in visual studio
