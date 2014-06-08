@@ -1,3 +1,7 @@
 i am a test
+<<<<<<< HEAD
 
 feature hot fix
+=======
+master
+>>>>>>> committed new file
